@@ -1,0 +1,65 @@
+Done: Created class for Zero
+Done: Made Zero being controlled by the keyboard
+Done: Made Zero to stay in the game window
+Done: Made a wall class
+Done: Made a wall on the game screen
+Done: Made Zero can't go through the wall
+Done: Made a list of walls
+Done: Made a file with data about the levels in the game - LevelsInfo.txt
+Done: Made an method which load the data from the file
+Done: Made a start screen, a screen for finished level and for finished game.
+Done: Made when Zero reach to the end of the level to advance to the next level
+Done: Made the game to start with the start screen
+Done: Made EndOfTheLevel class
+Done: Added one EndOfTheLevel object in the level
+Done: Made when Zero reach EndOfTheLevel object:
+Done:  - the current level to advance with 1 
+Done:  - if it is the final level to show the Finishing for the game screen
+Done:  - if it is not the final level then to show the screen for the finished level
+Done: Put graphics on the start screen, 
+Done: Put graphics on the screen for finished game
+Done: Added second level in the file LevelsInfo.txt
+Done: Put graphics on the screen for finished level 
+Done: Made the Creature class:
+Done: - it is able to move in straight line to a point on the game screen when a command is given to move;
+Done: - the movement is animated;
+Done: Made a list of creatures
+Done: Added one creature in the second level 
+Done: Made the creature can't walk through the walls
+Done: Added Life property to the Zero's class
+Done: Added Damage property to the Creature's class
+Done: Made the creature to walk to Zero when it is able to see him - if there is no walls between Zero and the creature, then it walks with certain speed to Zero in straight line
+Done: Made when the creature reach Zero to subtract Creature.Damage points from Zero.Life
+Done: Made the Game Over screen
+Done: Made when Zero.Life reach to 0 the game to go to the Game Over screen
+Done: Put a string which indicate which is the current game level
+Done: Made indication of Zero.Life in the game only when there are creatures
+Done: Made Zero be able to fire:
+Done:  - Made the weapon class;
+Done:  - Made one weapon placed on the map of level 2
+Done:  - Made when Zero approach the weapon, then Zero to be able take it and to be able to fire with it
+Done:  - Made the Projectile class;
+Done:  - Made when a specified key is pressed a projectile to be fired from the weapon Zero has taken
+Done:  - The projectile is fired in the direction in which Zero lastly moved
+Done:  - Added a damage property in the projectile class
+Done: Made when a projectile hits a wall then remove the projectile
+Done: Added Life property to the Creature class
+Done: Made when a projectile hit a creature to subtract Projectile.Damage from Creature.Life and to remove the projectile
+Done: Made the creature to be removed when Creature.Life reach to 0
+Done: Made WeaponTypes class which describes characteristics of different weapons
+Done: Made ProjectilesTypes class which describes characteristics of different projectiles.
+Done: Made CreatureTypes class which describes characteristics of different creatures
+Done: Made corrections in the LevelsInfo file in order to load the creatures and weapons from pointed types of weapons and creatures.
+Done: Made the projectile fired from a weapon to have some inaccuracy in its movement - it is not already only horizontal or vertical. The accuracy is taken from Zero's ability to fire with weapons and to be lowered over time of using weapons.
+Done: More levels with more than 1 creatures in them were added
+Done: Added ResistanceFromProjectiles property to the creatures - now some types of the creatures cannot be fired with any types of projectiles
+Done: Made menu screens
+Done: Made save game available
+Done: Made load game available
+Done: Made options menu:
+Done:  - to be able to change screen resolution
+Done:  - to be able to change Zero's controlling keys
+Done: Make these options to be saved in file when the save game executed and loaded when load game executed.
+ToDo: make help tips in the game so users could learn easily to play the game
+ToDo: make more levels
+ToDo: ...

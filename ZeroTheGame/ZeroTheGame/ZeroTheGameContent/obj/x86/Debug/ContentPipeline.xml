@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\SmileyWalk.png</Source>
+      <Name>images\SmileyWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\SmileyWalk.xnb</Output>
+      <Time>2015-05-05T00:25:25.4556571+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\stones.png</Source>
+      <Name>images\stones</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\stones.xnb</Output>
+      <Time>2015-05-27T00:07:58.6962856+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\endoflevel.png</Source>
+      <Name>images\endoflevel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\endoflevel.xnb</Output>
+      <Time>2015-05-30T00:51:41.1811391+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\mushroomHouse.png</Source>
+      <Name>images\mushroomHouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\mushroomHouse.xnb</Output>
+      <Time>2015-05-30T01:15:20.4704199+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SpriteFont1.spritefont</Source>
+      <Name>Fonts\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb</Output>
+      <Time>2015-05-31T11:55:52.6696752+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\start screen image.png</Source>
+      <Name>images\startscreenimage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\startscreenimage.xnb</Output>
+      <Time>2015-06-05T16:15:45.4107533+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\backgroundLv1.png</Source>
+      <Name>images\backgroundLv1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\backgroundLv1.xnb</Output>
+      <Time>2015-06-06T12:12:46.2777939+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\final screen image.png</Source>
+      <Name>images\finalscreenimage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\finalscreenimage.xnb</Output>
+      <Time>2015-06-05T21:29:31.5520425+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\GrassTopView.jpg</Source>
+      <Name>images\GrassTopView</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\GrassTopView.xnb</Output>
+      <Time>2015-06-06T10:58:49.6800096+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\WallIn3D.png</Source>
+      <Name>images\WallIn3D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\WallIn3D.xnb</Output>
+      <Time>2015-06-06T22:11:56.0229439+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\finished level screen image.png</Source>
+      <Name>images\finishedlevelscreenimage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\finishedlevelscreenimage.xnb</Output>
+      <Time>2015-06-09T20:18:41.2792146+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\monsterSpriteSheet.png</Source>
+      <Name>images\monsterSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\monsterSpriteSheet.xnb</Output>
+      <Time>2015-06-07T23:22:15.243378+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game over screen image.png</Source>
+      <Name>images\gameoverscreenimage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\gameoverscreenimage.xnb</Output>
+      <Time>2015-06-11T22:35:45.4345365+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\lifeBar.png</Source>
+      <Name>images\lifeBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\lifeBar.xnb</Output>
+      <Time>2015-06-12T20:45:43.2110822+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\SmileyWalkTighter.png</Source>
+      <Name>images\SmileyWalkTighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\SmileyWalkTighter.xnb</Output>
+      <Time>2015-06-14T02:23:19.6526072+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\bow-and-arrow.png</Source>
+      <Name>images\bow-and-arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\bow-and-arrow.xnb</Output>
+      <Time>2015-06-13T17:24:58.8939242+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\arrow.png</Source>
+      <Name>images\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\arrow.xnb</Output>
+      <Time>2015-06-17T21:59:48.7634187+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Jelly.png</Source>
+      <Name>images\Jelly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\Jelly.xnb</Output>
+      <Time>2015-06-08T20:57:43.1984349+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Fireball.png</Source>
+      <Name>images\Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\Fireball.xnb</Output>
+      <Time>2015-06-20T00:55:57.8270254+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\GrassTopView2.jpg</Source>
+      <Name>images\GrassTopView2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\GrassTopView2.xnb</Output>
+      <Time>2015-06-23T16:54:53.0532962+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\StoneTexture6.png</Source>
+      <Name>images\StoneTexture6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\StoneTexture6.xnb</Output>
+      <Time>2015-06-23T20:24:25.3985364+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\WalkingSquare.png</Source>
+      <Name>images\WalkingSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\WalkingSquare.xnb</Output>
+      <Time>2015-06-26T13:22:44.3963377+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\StarProjectile.png</Source>
+      <Name>images\StarProjectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\StarProjectile.xnb</Output>
+      <Time>2015-06-23T17:33:39.4026204+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\StarsWeapon.png</Source>
+      <Name>images\StarsWeapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\StarsWeapon.xnb</Output>
+      <Time>2015-06-23T17:31:54.0976103+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuBackgroundRectangle.png</Source>
+      <Name>images\MenuBackgroundRectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuBackgroundRectangle.xnb</Output>
+      <Time>2015-06-28T13:20:05.0249065+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuButtonStartGame.png</Source>
+      <Name>images\MenuButtonStartGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuButtonStartGame.xnb</Output>
+      <Time>2015-06-28T13:41:48.1774494+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuButtonLoadGame.png</Source>
+      <Name>images\MenuButtonLoadGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuButtonLoadGame.xnb</Output>
+      <Time>2015-06-28T13:43:57.5999725+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuButtonExitGame.png</Source>
+      <Name>images\MenuButtonExitGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuButtonExitGame.xnb</Output>
+      <Time>2015-06-28T13:54:01.2276571+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuButtonOptions.png</Source>
+      <Name>images\MenuButtonOptions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuButtonOptions.xnb</Output>
+      <Time>2015-06-28T13:51:06.238118+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuButtonSaveGame.png</Source>
+      <Name>images\MenuButtonSaveGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuButtonSaveGame.xnb</Output>
+      <Time>2015-06-28T13:51:52.5257237+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\ZeroSingleImage.png</Source>
+      <Name>images\ZeroSingleImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\ZeroSingleImage.xnb</Output>
+      <Time>2015-06-28T18:46:17.7765618+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuButtonResumeGame.png</Source>
+      <Name>images\MenuButtonResumeGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuButtonResumeGame.xnb</Output>
+      <Time>2015-06-30T23:28:03.5656716+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuSaveGameBackgroundRectangle.png</Source>
+      <Name>images\MenuSaveGameBackgroundRectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuSaveGameBackgroundRectangle.xnb</Output>
+      <Time>2015-07-02T00:25:42.4091878+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuSlot.png</Source>
+      <Name>images\MenuSlot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuSlot.xnb</Output>
+      <Time>2015-07-02T00:29:27.6907573+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuButtonCancel.png</Source>
+      <Name>images\MenuButtonCancel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuButtonCancel.xnb</Output>
+      <Time>2015-07-02T22:29:54.3110143+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuButtonLoad.png</Source>
+      <Name>images\MenuButtonLoad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuButtonLoad.xnb</Output>
+      <Time>2015-07-02T22:31:22.6337533+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuButtonOK.png</Source>
+      <Name>images\MenuButtonOK</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuButtonOK.xnb</Output>
+      <Time>2015-07-02T22:28:11.1315163+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuButtonSave.png</Source>
+      <Name>images\MenuButtonSave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuButtonSave.xnb</Output>
+      <Time>2015-07-02T22:33:12.7852775+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SpriteFont2.spritefont</Source>
+      <Name>Fonts\SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\Fonts\SpriteFont2.xnb</Output>
+      <Time>2015-07-08T21:40:56.6637717+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\empty.png</Source>
+      <Name>images\empty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\empty.xnb</Output>
+      <Time>2015-07-10T09:43:42.562895+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuLoadGameBackgroundRectangle.png</Source>
+      <Name>images\MenuLoadGameBackgroundRectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuLoadGameBackgroundRectangle.xnb</Output>
+      <Time>2015-07-11T00:34:51.0856303+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\MenuOptionsCompleteView.png</Source>
+      <Name>images\MenuOptionsCompleteView</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\images\MenuOptionsCompleteView.xnb</Output>
+      <Time>2015-07-20T12:40:11.7208461+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGameContent\</RootDirectory>
+      <LoggerRootDirectory>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\docs\programirane\VC# 2010\ZeroTheGame\ZeroTheGame\ZeroTheGame\ZeroTheGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-12T20:50:35.2438297+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

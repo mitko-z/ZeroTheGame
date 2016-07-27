@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="ZeroTheGame.application" version="1.0.0.11" publicKeyToken="ca485827b3000e09" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="ZeroTheGame" asmv2:product="ZeroTheGame" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="http://94.73.30.232/ZeroTheGame/Installation%20Package/ZeroTheGame.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\ZeroTheGame_1_0_0_11\ZeroTheGame.exe.manifest" size="27605">
+      <assemblyIdentity name="ZeroTheGame.exe" version="1.0.0.11" publicKeyToken="ca485827b3000e09" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>fO+pCbjxBbaMWjHIrHbgBI1Rd0w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=mk_crazy-l\MK Crazy" issuerKeyHash="7e387af2849bfcb6a9ffb11611bfd7feaf116a89" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Yh6OY2090xnQUBVCyMxKMWuWgeg=</DigestValue></Reference></SignedInfo><SignatureValue>IOzhgtz3xPKGzA1ZXZtuxq642lZQAq3XYIjioL5xsTz1rqjwZrA50T2IcKOgiL/riTykDgMZwOYq17ogMNTr+5GqiKNJmQfkg+oBlCOuFppd7XiXL87KzkbyYZ7JT0ZqquH3btYYMbbG08+SMEgFAEoZ/9eF+1YyQSEkZsofkL4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1rXzqb+LiKeZXTIaeWhrLgbLCFxNo0L8m89N+PfTKoTMIDn6cBeNM+BulFrRjH1mi2Ee95OSNvb+8sZmEwW/2WgSboCmFaS0QHlwnFzkF0so0CganacIURd4X3DixWrDSOOHWhQsCZL6i1vDUV/93dRgA4GrHKuk7HxoXdXVSrE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e881966b314accc8421550d019d33d6d638e1e62" Description="" Url=""><as:assemblyIdentity name="ZeroTheGame.application" version="1.0.0.11" publicKeyToken="ca485827b3000e09" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=mk_crazy-l\MK Crazy</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>pUDuRrYaOzf3lFk7cU3zGLIbVxM=</DigestValue></Reference></SignedInfo><SignatureValue>Xoe38EBK1AqYs4a6jqlut3UimExg5kWE3FOo5cvrwy+6D90DobDYbYfE6XSTvq+EwenSM6ERemHg8nW3zpFsIX/ENcx57Zx9lOMIFo9lwa0quCzYlM2/jgLMCAD7vdpeTROj2F7MG4VuqG8iRPUL/u6CU7yvyG3raoxrwGDH2zY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1rXzqb+LiKeZXTIaeWhrLgbLCFxNo0L8m89N+PfTKoTMIDn6cBeNM+BulFrRjH1mi2Ee95OSNvb+8sZmEwW/2WgSboCmFaS0QHlwnFzkF0so0CganacIURd4X3DixWrDSOOHWhQsCZL6i1vDUV/93dRgA4GrHKuk7HxoXdXVSrE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQZtI03z0IMJJGic0sHZaeqzANBgkqhkiG9w0BAQUFADAxMS8wLQYDVQQDHiYAbQBrAF8AYwByAGEAegB5AC0AbABcAE0ASwAgAEMAcgBhAHoAeTAeFw0xNTA2MTkxNzExMjRaFw0xNjA2MTgyMzExMjRaMDExLzAtBgNVBAMeJgBtAGsAXwBjAHIAYQB6AHkALQBsAFwATQBLACAAQwByAGEAegB5MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDWtfOpv4uIp5ldMhp5aGsuBssIXE2jQvybz03499MqhMwgOfpwF40z4G6UWtGMfWaLYR73k5I29v7yxmYTBb/ZaBJugKYVpLRAeXCcXOQXSyjQKBqdpwhRF3hfcOLFasNI44daFCwJkvqLW8NRX/3d1GADgascq6TsfGhd1dVKsQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBALZlUxDEM7K3f7Xtw5BG44uEnph8KwIte+1QwSR9fm6mQR/wtjJZMg9y7uVL7MXtY8+xlWdqCsVpnqM/8Asr2L45ENyCe4w3NjyksgkzK/XTdiAq7yoSNlkVBLk+YkHNyr6FCJzl0uW0jXsrnzEG2HIvJ5TbrbDfxiDfEGla7tgy</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

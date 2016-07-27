@@ -1,0 +1,100 @@
+; number of levels
+4
+; level no.
+1
+; name for the texture of the background (without the extension of the file)
+backgroundLv1
+; name for the texture of walls (without the extension of the file)
+stones
+; index number of the creature type for this level
+0
+; index number for the type of weapon for this level
+0
+; number of columns for the level
+5
+; number of rows for the level
+5
+; table of the level; legend: 0 - empty space, 1 - wall, 2 - creature; 9 - end of level
+0	1	0	0	0
+0	1	0	1	0
+0	1	0	1	0
+0	1	0	1	0
+0	0	0	1	9
+; level no.
+2
+; name for the texture of the background
+GrassTopView
+; name for the texture of walls
+WallIn3D
+; index number of the creature type for this level
+0
+; index number for the type of weapon for this level
+0
+; number of columns for the level
+7
+; number of rows for the level
+7
+; table of the level; legend: 0 - empty space, 1 - wall, 2 - creature; 3-weapon; 9 - end of level
+0	0	0	0	0	0	0
+1	1	1	1	0	1	0
+9	1	0	0	0	1	0
+0	1	0	1	1	1	0
+0	1	0	0	0	1	0
+0	1	1	1	0	1	0
+0	2	0	0	0	1	3
+; level no.
+3
+; name for the texture of the background
+GrassTopView
+; name for the texture of walls
+WallIn3D
+; index number of the creature type for this level
+1
+; index number for the type of weapon for this level
+1
+; number of columns for the level
+10
+; number of rows for the level
+10
+; table of the level; legend: 0-empty space, 1-wall, 2-creature; 3-weapon; 9-end of level
+0	0	0	1	0	0	0	1	2	2
+0	1	0	1	0	1	0	1	0	0
+0	1	0	1	0	1	0	0	0	0
+0	1	0	0	0	1	0	1	0	0
+0	1	1	1	1	1	1	3	1	0
+0	0	0	0	2	0	0	0	1	0
+1	1	1	1	1	1	1	1	1	0
+9	0	0	2	0	0	0	0	1	2
+0	0	0	0	0	0	0	0	1	2
+0	0	0	2	2	2	0	0	0	0
+; level no.
+4
+; name for the texture of the background (without the extension of the file)
+GrassTopView2
+; name for the texture of walls (without the extension of the file)
+StoneTexture6
+; index number of the creature type for this level
+2
+; index number for the type of weapon for this level
+2
+; number of columns for the level
+13
+; number of rows for the level
+16
+; table of the level; legend: 0 - empty space, 1 - wall, 2 - creature; 3 - weapon; 9 - end of level
+0	0	0	0	1	0	0	0	0	0	0	0	0
+0	1	0	0	1	0	1	0	1	1	1	1	0
+0	1	9	2	1	0	1	0	1	0	0	0	0
+0	1	1	1	1	0	1	0	1	0	1	1	1
+0	0	0	0	0	0	1	0	1	0	0	0	0
+0	1	0	1	1	1	0	0	1	1	1	1	0
+0	1	0	0	0	1	0	0	0	0	0	1	0
+0	1	1	1	0	1	1	1	1	1	0	1	0
+0	0	0	1	0	1	0	0	0	0	0	1	0
+1	1	0	1	0	1	0	1	1	1	1	0	0
+0	0	0	1	1	1	0	0	0	1	0	0	1
+0	1	1	0	1	0	1	1	0	0	1	0	0
+0	1	0	0	1	0	0	0	1	0	0	1	0
+0	1	0	0	0	1	1	0	1	0	0	1	0
+0	0	0	0	0	0	1	0	1	0	1	1	1
+0	0	0	0	0	0	0	0	1	0	0	0	3

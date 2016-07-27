@@ -1,0 +1,19 @@
+This is a simple computer game where the player controls a character, called Zero which have to pass trough a labyrinth to pass through the levels. The labyrinth have many obstacles - hard places to go trough (i.e. fire, water, etc. where he must find something to help him with), logical places where the player must use his brain (i.e. a door which open if you solve a logical question) and evil creatures which will attack our character. Our character will be able to fire in response.
+
+The details.
+- The game will be 2D (for now), the view on the whole level (the whole labyrinth) will be from the top;
+- For images of Zero will be used the texture atlas provided in the tutorial about "Texture atlases":
+http://rbwhitaker.wikidot.com/texture-atlases-1
+If anyone want to take part with his own images will be fine;
+- Zero will be able to have abilities - to have health, to be able to walk and run (for certain time), to be able to swim for certain time, to fire with weapons (also accuracy might be added which might be improved over time of using a weapon) and others…;
+- Each level will be under the form of a labyrinth. It is not decided yet whether the labyrinth to be generated randomly or set in advance;
+- The evil creatures will have simple AI - when there is no obstacle between a creature and Zero and they are on one line - vertical or horizontal (for simplicity), the creature will move toward Zero and when reach him will attack. I think also to add in the future (if have time) creatures which will be able to fire from distance.
+- As I'm writing for creatures - I will appreciate if anyone who enjoys in drawing to make for the game the sprites for the creatures, the special items which Zero can take and the levels! :)
+- The player will be able to save and load the game. At this point I have not decided if the player to be able to save/load at any time or only when Zero reach on special places (maybe one safe place in the middle of the level and one in the end).
+
+I think the game to be Open Source and everyone who wish to be able participate. The last version of the game will be placed on this server of mine (for now):
+http://94.73.30.232/ZeroTheGame
+
+If anyone wish to participate in helping me with this game may contact by posting in this thread, or through skype - winsett_z
+
+I am also open to new ideas so if you have anything that you think will be better than the mentioned above, please write! :)
